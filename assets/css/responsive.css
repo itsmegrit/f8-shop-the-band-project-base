@@ -20,6 +20,15 @@
 
   #top .nav {
     display: block;
+    padding: 1px 0;
+  }
+
+  #top .nav .subnav {
+    position: initial;
+  }
+
+  #top .nav .subnav a {
+    padding: 1px 16px;
   }
 
   #top .nav:first-child {
